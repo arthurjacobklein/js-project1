@@ -17,5 +17,3 @@ console.log(row);
 
 pyramid(pyramid("${level}"));
 
-
-
